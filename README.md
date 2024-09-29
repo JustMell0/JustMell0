@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills<br>👯 🌱 I’m currently learning Rust<br>
+🔭 I’m currently working on improving my skills<br>🌱 I’m currently learning Rust<br>
 
 
 ## 🌐 Socials:
